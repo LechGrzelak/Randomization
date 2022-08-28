@@ -5,10 +5,10 @@ The codes are based on the article **"On Randomization of Affine Diffusion Proce
 You are free to use the codes for non-commercial purposes.
 
 @article{grzelakRAnD,
-  title={On Randomization of Affine Diffusion Processes with Application to Pricing of Options on {VIX} and {S&P} 500},
-  author={Grzelak, Lech A.},
-  journal={arxiv},  
-  year = {2022}
+  title={On Randomization of Affine Diffusion Processes with Application to Pricing of Options on {VIX} and {S&P} 500},\
+  author={Grzelak, Lech A.},\
+  journal={arxiv},  \
+  year = {2022}\
 }
 
 Enjoy the content!
