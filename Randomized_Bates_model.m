@@ -9,7 +9,7 @@ close all;clc;
 % @article{grzelakRAnD,
 %   title={On Randomization of Affine Diffusion Processes with Application to Pricing of Options on {VIX} and {S&P} 500},
 %   author={Grzelak, Lech A.},
-%   journal={arxiv},  
+%   journal={arXiv:2208.12518},  
 %   year = {2022}
 % }
 
